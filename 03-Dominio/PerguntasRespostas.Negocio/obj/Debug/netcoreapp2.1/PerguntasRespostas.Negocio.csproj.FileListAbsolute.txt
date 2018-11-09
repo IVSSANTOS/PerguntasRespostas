@@ -1,0 +1,14 @@
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\obj\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.csprojAssemblyReference.cache
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\obj\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.csproj.CoreCompileInputs.cache
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\obj\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.AssemblyInfoInputs.cache
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\obj\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.AssemblyInfo.cs
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\bin\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.deps.json
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\bin\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.dll
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\bin\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.pdb
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\bin\Debug\netcoreapp2.1\PerguntasRespostas.Dados.dll
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\bin\Debug\netcoreapp2.1\PerguntasRespostas.Entidades.dll
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\bin\Debug\netcoreapp2.1\PerguntasRespostas.Dados.pdb
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\bin\Debug\netcoreapp2.1\PerguntasRespostas.Entidades.pdb
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\obj\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.csproj.CopyComplete
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\obj\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.dll
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\03-Dominio\PerguntasRespostas.Negocio\obj\Debug\netcoreapp2.1\PerguntasRespostas.Negocio.pdb

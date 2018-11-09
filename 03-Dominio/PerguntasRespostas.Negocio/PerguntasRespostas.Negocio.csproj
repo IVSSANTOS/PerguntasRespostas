@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\04-Infra\PerguntasRespostas.Dados\PerguntasRespostas.Dados.csproj" />
+    <ProjectReference Include="..\PerguntasRespostas.Entidades\PerguntasRespostas.Entidades.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,12 @@
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.1\PerguntasRespostas.Dados.deps.json
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.1\PerguntasRespostas.Dados.dll
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.1\PerguntasRespostas.Entidades.dll
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.1\PerguntasRespostas.Entidades.pdb
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.1\PerguntasRespostas.Dados.csprojAssemblyReference.cache
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.1\PerguntasRespostas.Dados.csproj.CoreCompileInputs.cache
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.1\PerguntasRespostas.Dados.AssemblyInfoInputs.cache
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.1\PerguntasRespostas.Dados.AssemblyInfo.cs
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.1\PerguntasRespostas.Dados.csproj.CopyComplete
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.1\PerguntasRespostas.Dados.pdb
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.1\PerguntasRespostas.Dados.dll
+C:\Projetos\ASPNET_CORE\Perguntas_e_Respostas\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.1\PerguntasRespostas.Dados.pdb
