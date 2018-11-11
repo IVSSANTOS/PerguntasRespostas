@@ -1,0 +1,8 @@
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\bin\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.deps.json
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\bin\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.dll
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\bin\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.pdb
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\obj\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\obj\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\obj\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.AssemblyInfo.cs
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\obj\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.dll
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\03-Dominio\PerguntasRespostas.Entidades\obj\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.pdb

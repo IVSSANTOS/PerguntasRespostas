@@ -29,13 +29,14 @@ namespace RespostasRespostas.API.Host.Controllers
 
         // GET api/Resposta/5
         [HttpGet("{id}")]
-        public ActionResult<Resposta> Get(int id)
+        public ActionResult<IEnumerable<Resposta>> Get(int id)
         {
-            var obj = new RespostaBLL().GetResposta(id);
 
-            if (obj != null)
+            var lista = new RespostaBLL().GetResposta().Where(x=>x.IdPergunta == id);
+
+            if (lista.Count() > 0)
             {
-                return Ok(obj);
+                return Ok(lista);
             }
 
             return BadRequest("A pesquisa não retornou resultado");

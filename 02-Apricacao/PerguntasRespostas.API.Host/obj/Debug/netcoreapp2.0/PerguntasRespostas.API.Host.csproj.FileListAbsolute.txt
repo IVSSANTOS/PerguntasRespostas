@@ -1,0 +1,4 @@
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\02-Apricacao\PerguntasRespostas.API.Host\obj\Debug\netcoreapp2.0\PerguntasRespostas.API.Host.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\02-Apricacao\PerguntasRespostas.API.Host\obj\Debug\netcoreapp2.0\PerguntasRespostas.API.Host.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\02-Apricacao\PerguntasRespostas.API.Host\obj\Debug\netcoreapp2.0\PerguntasRespostas.API.Host.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\02-Apricacao\PerguntasRespostas.API.Host\obj\Debug\netcoreapp2.0\PerguntasRespostas.API.Host.AssemblyInfo.cs

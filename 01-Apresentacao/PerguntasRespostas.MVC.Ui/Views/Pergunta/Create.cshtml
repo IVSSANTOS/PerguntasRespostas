@@ -1,0 +1,63 @@
+﻿@model PerguntasRespostas.MVC.Ui.Models.PerguntaModel
+
+@{
+    ViewData["Title"] = "Create";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Create</h2>
+
+<h4>PerguntaModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Create">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+            <div class="form-group">
+                <label asp-for="IdAutor" class="control-label"></label>
+                <input asp-for="IdAutor" class="form-control" readonly="readonly" />
+                <span asp-validation-for="IdAutor" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+
+
+                <label asp-for="categoriaModel" class="control-label">Categoria</label>
+
+                @Html.DropDownListFor(x => x.Idcategoria, new SelectList(ViewBag.Categorias, "Value", "Text"))
+
+
+
+
+                @*<label asp-for="categoriaModel" class="control-label">Categoria</label>
+                    <select asp-for="categoriaModel"
+                            asp-items="@ViewBag.Categorias" class="form-control"></select>*@
+            </div>
+            <div class="form-group">
+                <label asp-for="Descricao" class="control-label"></label>
+                <input asp-for="Descricao" class="form-control" />
+                <span asp-validation-for="Descricao" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <div class="checkbox">
+                    <label>
+                        <input asp-for="Ativo" /> @Html.DisplayNameFor(model => model.Ativo)
+                    </label>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}

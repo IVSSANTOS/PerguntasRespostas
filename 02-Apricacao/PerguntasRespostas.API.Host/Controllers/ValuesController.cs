@@ -14,7 +14,7 @@ namespace PerguntasRespostas.API.Host.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "WEB - API", "Perguntas e Respostas" };
         }
 
         // GET api/values/5

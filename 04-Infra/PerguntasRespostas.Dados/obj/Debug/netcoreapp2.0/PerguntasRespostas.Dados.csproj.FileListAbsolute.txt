@@ -1,0 +1,12 @@
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.0\PerguntasRespostas.Dados.deps.json
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.0\PerguntasRespostas.Dados.dll
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.0\PerguntasRespostas.Dados.pdb
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.dll
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\bin\Debug\netcoreapp2.0\PerguntasRespostas.Entidades.pdb
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.0\PerguntasRespostas.Dados.csprojAssemblyReference.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.0\PerguntasRespostas.Dados.csproj.CoreCompileInputs.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.0\PerguntasRespostas.Dados.AssemblyInfoInputs.cache
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.0\PerguntasRespostas.Dados.AssemblyInfo.cs
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.0\PerguntasRespostas.Dados.csproj.CopyComplete
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.0\PerguntasRespostas.Dados.dll
+C:\Users\logonrmlocal\Downloads\PerguntasRespostas\PerguntasRespostas-master\04-Infra\PerguntasRespostas.Dados\obj\Debug\netcoreapp2.0\PerguntasRespostas.Dados.pdb
